@@ -1,0 +1,3 @@
+There are five functions and each of them were called five times. 
+The run time for each of them was very short almost zero so maybe there's something wrong.
+Function fib recursively called itself like 100 thousanddefinitely times and the run time was still almost zero so definitely something is wrong.
